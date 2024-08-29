@@ -243,7 +243,7 @@ export const myContext = React.createContext();
 export const trendingContext = React.createContext();
 export const topSalesContext = React.createContext();
 const Home = () => {
-  const heroimg = require("../../assets/left.png");
+  const heroimg = require("../../images/left.png");
 
 
 
