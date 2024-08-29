@@ -8,7 +8,7 @@ import AdvertisementCard from "../AdvertisementCard/AdvertisementCard";
 
 import "../Home/Home.css";
 import TreadingCard from "../TreadingCard/TreadingCard";
-import hero_img from "../../assets/left.png";
+import heroimg from "../../assets/left.png";
 import TopCard from "../TopCards/TopCard";
 import photo_bag_1 from "../../assets/mid.png";
 import shoe_1 from "../../assets/mid-1.png";
@@ -286,7 +286,7 @@ const Home = () => {
         <div className="summer-card-date">19 Jul-30 Jul</div>
       </div>
       <div className="hero">
-        <img src={hero_img} className="hero-img"></img>
+        <img src={heroimg} alt="hero-image" className="hero-img"></img>
         <div className="hero-section-content">
           <div className="hero-title">Kimonos, Caftans & Pareos</div>
           <div className="hero-sub-title">
