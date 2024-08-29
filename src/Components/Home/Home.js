@@ -281,12 +281,13 @@ const Home = () => {
   return (
     <>
       <div className="summer-essentials-card">
+         <img src={heroimg} alt="hero-image" className="hero-img"></img> 
         <div className="summer-essentials-card-title">Summer Essentials</div>
         <div className="summer-essentials-card-percentage">20%</div>
         <div className="summer-card-date">19 Jul-30 Jul</div>
       </div>
       <div className="hero">
-        <img src={heroimg} alt="hero-image" className="hero-img"></img>
+       
         <div className="hero-section-content">
           <div className="hero-title">Kimonos, Caftans & Pareos</div>
           <div className="hero-sub-title">
