@@ -33,6 +33,7 @@ import top_5_img from "../../assets/y9g6k_512.jpg";
 import top_6_img from "../../assets/9hcx0_512.jpg";
 
 import top_8_img from "../../assets/x38yf_512.jpg";
+import hero_img from "../../images/left.png"
 import top_7_img from "../../assets/rwvqv_512.jpg";
 let flashSalesData = [
   {
@@ -238,12 +239,16 @@ let topItemsData = [
     discount: "20%",
   },
 ];
+
+let heroInfo = {
+  img:hero_img
+}
 export const myContext = React.createContext();
 
 export const trendingContext = React.createContext();
 export const topSalesContext = React.createContext();
 const Home = () => {
-  const heroimg = require("../../images/left.png");
+  
 
 
 
@@ -252,6 +257,7 @@ const Home = () => {
     trending: 3,
     topSales: 4,
   });
+  
 
   const [displayedFlashSalesItems, setDisplayedFlashSalesItems] = useState(
     flashSalesData.slice(0, itemCounts.flashSales)
@@ -291,7 +297,7 @@ const Home = () => {
         <div className="summer-card-date">19 Jul-30 Jul</div>
       </div>
       <div className="hero">
-      <img src={heroimg} alt="hero-image" className="hero-img" />
+      <img src={heroInfo.img} alt="hero-image" className="hero-img" />
         <div className="hero-section-content">
           <div className="hero-title">Kimonos, Caftans & Pareos</div>
           <div className="hero-sub-title">
