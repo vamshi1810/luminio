@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/luminio/static/css/main.f855e6bc.css",
+    "main.js": "/luminio/static/js/main.9f409f5b.js",
+    "static/js/453.0a36081d.chunk.js": "/luminio/static/js/453.0a36081d.chunk.js",
+    "static/media/logo.svg": "/luminio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/luminio/index.html",
+    "main.f855e6bc.css.map": "/luminio/static/css/main.f855e6bc.css.map",
+    "main.9f409f5b.js.map": "/luminio/static/js/main.9f409f5b.js.map",
+    "453.0a36081d.chunk.js.map": "/luminio/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9f409f5b.js"
+  ]
+}
