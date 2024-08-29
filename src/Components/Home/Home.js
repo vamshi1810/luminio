@@ -8,7 +8,7 @@ import AdvertisementCard from "../AdvertisementCard/AdvertisementCard";
 
 import "../Home/Home.css";
 import TreadingCard from "../TreadingCard/TreadingCard";
-import heroimg from "../../assets/left.png";
+
 import TopCard from "../TopCards/TopCard";
 import photo_bag_1 from "../../assets/mid.png";
 import shoe_1 from "../../assets/mid-1.png";
@@ -243,6 +243,10 @@ export const myContext = React.createContext();
 export const trendingContext = React.createContext();
 export const topSalesContext = React.createContext();
 const Home = () => {
+  const heroimg = require("../../assets/left.png");
+
+
+
   const [itemCounts, setItemCounts] = useState({
     flashSales: 4,
     trending: 3,
@@ -281,13 +285,13 @@ const Home = () => {
   return (
     <>
       <div className="summer-essentials-card">
-         <img src={heroimg} alt="hero-image" className="hero-img"></img> 
+         
         <div className="summer-essentials-card-title">Summer Essentials</div>
         <div className="summer-essentials-card-percentage">20%</div>
         <div className="summer-card-date">19 Jul-30 Jul</div>
       </div>
       <div className="hero">
-       
+      <img src={heroimg} alt="hero-image" className="hero-img" />
         <div className="hero-section-content">
           <div className="hero-title">Kimonos, Caftans & Pareos</div>
           <div className="hero-sub-title">
