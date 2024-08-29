@@ -26,7 +26,8 @@ function App() {
 
   return (
     <>
-      <Router>
+    <Home></Home>
+      {/* <Router>
         {isAuthenticated && <Navbar className="header-navbar-container" />}
         <div className="body-content">
           <Routes>
@@ -56,10 +57,7 @@ function App() {
               path="/product-info"
               element={isAuthenticated ? <ProductDetails /> : <Navigate to="/" />}
             />
-            {/* <Route
-              path="/help-support"
-              element={isAuthenticated ? <Product /> : <Navigate to="/" />}
-            /> */}
+            
             <Route
               path="/checkout"
               element={isAuthenticated ? <CartDetails /> : <Navigate to="/" />}
@@ -87,7 +85,7 @@ function App() {
         )}
         </div>
        
-      </Router>
+      </Router> */}
     </>
   );
 }

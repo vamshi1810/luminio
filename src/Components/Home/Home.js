@@ -33,7 +33,7 @@ import top_5_img from "../../assets/y9g6k_512.jpg";
 import top_6_img from "../../assets/9hcx0_512.jpg";
 
 import top_8_img from "../../assets/x38yf_512.jpg";
-import hero_img from "../../images/left.png"
+import hero_img from "../../assets/hero.png"
 import top_7_img from "../../assets/rwvqv_512.jpg";
 let flashSalesData = [
   {
