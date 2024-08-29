@@ -1,0 +1,77 @@
+.mb-footer-container{
+    display: flex;
+    gap: 45px;
+    padding: 20px;
+    box-shadow: 0px 0px 12px 0px #0000001a;
+    justify-content: center;
+    display: none;
+}
+.mb-footer-icon{
+    width: 35;
+    height: 35px;
+}
+
+.mb-footer-item{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.account-profile-card{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+   
+    width: 100%;
+    background: rgb(234, 234, 242);
+}
+.account-profile-img-section{
+    display: flex;
+    gap: 25px;
+    align-items: start;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 20px;
+    box-shadow: 0px 0px 12px 0px #0000001a;
+    border-bottom: 1px solid gray;
+    
+}
+.user-icon{
+    width: 55px;
+    height: 55px;
+}
+.help-icon{
+    width: 35px;
+    height: 35px;
+}
+.account-profile-title{
+color: rgb(53, 53, 67);
+   
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    font-family: "Lato", sans-serif;
+    margin: 0px 0px 8px;
+    padding: 0px;
+}
+.account-profile-sub-title{
+    color: rgb(53, 53, 67);
+   
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    font-family: "Lato", sans-serif;
+    margin: 0px 0px 8px;
+    padding: 0px;
+}
+
+@media(max-width:600px){
+    .mb-footer-container{
+        display: flex;
+        gap: 45px;
+        padding: 20px;
+        box-shadow: 0px 0px 12px 0px #0000001a;
+        justify-content: center;
+        
+    }
+}

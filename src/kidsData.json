@@ -1,0 +1,38 @@
+{
+    "categories": [
+      {
+        "name": "Boys & Girls 2+ Years",
+        "value": "Boys-Girls-2-Years",
+        "subcategories": [
+          { "name": "Dresses", "value": "Dresses" }
+        ]
+      },
+      {
+        "name": "Infant 0-2 Years",
+        "value": "Infant-0-2-Years",
+        "subcategories": [
+          { "name": "Rompers", "value": "Rompers" }
+        ]
+      },
+      {
+        "name": "Toys & Accessories",
+        "value": "Toys-Accessories",
+        "subcategories": [
+          { "name": "Soft Toys", "value": "Soft-Toys" },
+          {"name":"Stationery","value":"Stationery"},
+          {"name":"Footwear","value":"Footwear"},
+          {"name":"Bags Backpacks","value":"Bags-Backpacks"}
+        ]
+      },
+     
+      
+      {
+        "name": "Baby Care",
+        "value": "Baby-Care",
+        "subcategories": [
+          { "name": "All Baby Care", "value": "All-Baby-Care" }
+        ]
+      }
+    ]
+  }
+  

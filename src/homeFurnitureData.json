@@ -1,0 +1,36 @@
+{
+    "categories": [
+      {
+        "name": "Home Furnishing",
+        "value": "Home-Furnishing",
+        "subcategories": [
+          { "name": "Bedsheets", "value": "Bedsheets" },
+          { "name": "Doormats", "value": "Doormats" },
+          { "name": "Curtains & Sheers", "value": "Curtains" },
+          { "name": "Cushions & Cushion Covers", "value": "Cushions-Covers" },
+          { "name": "Mattress Protectors", "value": "Mattress-Protectors" }
+        ]
+      },
+  {
+        "name": "Home Decor",
+      "value": "Home-Decor",
+        "subcategories": [
+          { "name": "All Home Decor", "value": "All-Home-Decor" },
+          { "name": "Stickers", "value": "Stickers" },
+          { "name": "Clocks", "value": "Clocks" },
+          { "name": "Showpieces", "value": "Showpieces" }
+        ]
+      },
+      {
+        "name": "Kitchen & Dining",
+        "value": "Kitchen-Dining",
+        "subcategories": [
+          { "name": "Kitchen Storage", "value": "Kitchen-Storage" },
+          { "name": "Cookware & Bakeware", "value": "Cookware-Bakeware" }
+        ]
+      }
+      
+      
+    ]
+  }
+  

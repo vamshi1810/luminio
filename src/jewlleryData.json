@@ -1,0 +1,30 @@
+{
+    "categories": [
+      {
+        "name": "Jewellery",
+        "value": "Jewellery",
+        "subcategories": [
+          { "name": "Jewellery Set", "value": "Jewellery-Set" },
+          { "name": "Earrings", "value": "Earrings" },
+          { "name": "Mangalsutras", "value": "Mangalsutras" },
+          { "name": "Studs", "value": "Studs" },
+          { "name": "Bangles", "value": "Bangles" },
+          { "name": "Necklaces", "value": "Necklaces" },
+          { "name": "Rings", "value": "Rings" },
+          { "name": "Anklets", "value": "Anklets" }
+        ]
+      },
+      {
+        "name": "Women Accessory",
+        "value": "Women-Accessory",
+        "subcategories": [
+          { "name": "Bags", "value": "Bags" },
+          { "name": "Watches", "value": "Watches" },
+          { "name": "Hair Accessories", "value": "Hair-Accessories" },
+          { "name": "Sunglasses", "value": "Sunglasses" },
+          { "name": "Socks", "value": "Socks" }
+        ]
+      }
+    ]
+  }
+  

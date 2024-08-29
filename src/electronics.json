@@ -1,0 +1,24 @@
+{
+    "categories": [
+      {
+        "name": "Mobile & Accessories",
+        "value": "Mobile-Accessories",
+        "subcategories": [
+          { "name": "All Mobile & Accessories", "value": "All-Mobile-Accessories" },
+          { "name": "Smartwatches", "value": "Smartwatches" },
+          { "name": "Mobile Holders", "value": "Mobile-Holders" },
+          { "name": "Mobile Cases and Covers", "value": "Mobile-Cases-Covers" }
+        ]
+      },
+      {
+        "name": "Appliances",
+        "value": "Appliances",
+        "subcategories": [
+          { "name": "All Appliances", "value": "All-Appliances" },
+          { "name": "Grooming", "value": "Grooming" },
+          { "name": "Home Appliances", "value": "Home-Appliances" }
+        ]
+      }
+    ]
+  }
+  

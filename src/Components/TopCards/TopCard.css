@@ -1,0 +1,131 @@
+.top-card-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.top-card {
+    /* border-radius: 8px; */
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 12px 0px #0000001A;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 8px;
+}
+
+.img-container {
+    width: 100%;
+}
+
+.top-card-img {
+    width: 100%;
+ height: 327px;
+    border-radius: 8px 8px 0 0;
+}
+
+.top-card-footer {
+    background: #FFFFFF;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.footer-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.top-card-star {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .size-2 {
+    width: 100%;
+    height: 100%;
+  }
+
+.footer-title {
+    font-family: "Lato", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+    color: #262626;
+}
+
+.footer-sub-title {
+    font-family: "Lato", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: #555555;
+}
+
+.footer-review {
+    display: flex;
+    gap: 10px;
+}
+
+.footer-view {
+    font-family: "Lato", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    color: #555555;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-card-footer-price {
+    display: flex;
+    gap: 10px;
+}
+
+.dollar-rupees {
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 20px;
+    text-align: left;
+    color: #FF2E00;
+}
+
+.dollar-rupees-1 {
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: #9D9D9D;
+}
+
+.percentage {
+    font-family: "Lato", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: #FF2E00;
+}
+
+@media (max-width: 1024px) {
+    .top-card-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .top-card-container {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
+}

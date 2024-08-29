@@ -1,0 +1,31 @@
+{
+    "categories": [
+      {
+        "name": "Makeup",
+        "value": "Makeup",
+        "subcategories": [
+          { "name": "Face", "value": "Face" },
+          { "name": "Eyes", "value": "Eyes" },
+          { "name": "Lips", "value": "Lips" },
+          { "name": "Nails", "value": "Nails" }
+        ]
+      },
+      {
+        "name": "Wellness",
+        "value": "Wellness",
+        "subcategories": [
+          { "name": "Sanitizers", "value": "Sanitizers" },
+          { "name": "Oral Care", "value": "Oral-Care" },
+          { "name": "Feminine Hygiene", "value": "Feminine-Hygiene" }
+        ]
+      },
+      {
+        "name": "Skincare",
+        "value": "Skincare",
+        "subcategories": [
+          { "name": "Deodorants", "value": "Deodorants" }
+        ]
+      }
+    ]
+  }
+  

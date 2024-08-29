@@ -1,0 +1,62 @@
+{
+    "categories": [
+      {
+        "name": "Top Wear",
+        "value": "Top-Wear",
+        "subcategories": [
+          { "name": "All Top Wear", "value": "All-Top-Wear" },
+          { "name": "Tshirts", "value": "Tshirts" },
+          { "name": "Shirts", "value": "Shirts" }
+        ]
+      },
+      {
+        "name": "Bottom Wear",
+        "value": "Bottom-Wear",
+        "subcategories": [
+          { "name": "Track Pants", "value": "Track-Pants" },
+          { "name": "Jeans", "value": "Jeans" },
+          { "name": "Trousers", "value": "Trousers" }
+        ]
+      },
+      {
+        "name": "Men Accessories",
+        "value": "Men-Accessories",
+        "subcategories": [
+          { "name": "All Men Accessories", "value": "All-Men-Accessories" },
+          { "name": "Watches", "value": "Watches" },
+          { "name": "Belts", "value": "Belts" },
+          { "name": "Wallets", "value": "Wallets" },
+          { "name": "Jewellery", "value": "Jewellery" },
+          { "name": "Sunglasses", "value": "Sunglasses" },
+          { "name": "Bags", "value": "Bags" }
+        ]
+      },
+      {
+        "name": "Men Footwear",
+        "value": "Men-Footwear",
+        "subcategories": [
+          { "name": "Casual Shoes", "value": "Casual-Shoes" },
+          { "name": "Sports Shoes", "value": "Sports-Shoes" },
+          { "name": "Sandals", "value": "Sandals" },
+          { "name": "Formal Shoes", "value": "Formal-Shoes" }
+        ]
+      },
+      {
+        "name": "Ethnic Wear",
+        "value": "Ethnic-Wear",
+        "subcategories": [
+          { "name": "Men Kurtas", "value": "Men-Kurtas" },
+          { "name": "Ethnic Jackets", "value": "Ethnic-Jackets" }
+        ]
+      },
+      {
+        "name": "Inner & Sleep Wear",
+        "value": "Inner-Sleep-Wear",
+        "subcategories": [
+          { "name": "All Inner & Sleep Wear", "value": "All-Inner-Sleep-Wear" },
+          { "name": "Vests", "value": "Vests" }
+        ]
+      }
+    ]
+  }
+  

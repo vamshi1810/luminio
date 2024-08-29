@@ -1,0 +1,201 @@
+
+
+.home-deal-card-section{
+    padding: 20px 90px;
+}
+
+.home-deal-card{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.home-deal-card-title{
+
+font-family: "Lato", sans-serif;
+font-size: 28px;
+font-weight: 500;
+line-height: 20px;
+text-align: left;
+
+color: #000000;
+
+}
+.summer-essentials-card{
+    position: absolute;
+    top: 370px;
+    left: 430px;
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    flex-direction: column;
+    background-color: #FFFFFF;
+   
+    width: fit-content;
+   
+   
+    
+}
+.summer-essentials-card-title ,.summer-essentials-card-percentage{
+font-family: "Lato", sans-serif;
+font-size: 20px;
+font-weight: 700;
+line-height: 20px;
+text-align: right;
+color: #262626;
+padding: 10px 20px;
+}
+.summer-essentials-card-percentage{
+   color: #FF2E00;
+   text-align: center;
+   
+}
+.summer-card-date{
+ 
+    background-color: #262626;
+    margin-top: 25px;
+    padding: 10px 0px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Lato", sans-serif;
+
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: center;
+
+}
+
+
+
+
+
+.home-deal-card-view{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+
+
+}
+.left-arrow{
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
+.view-all-text{
+ font-family: "Lato", sans-serif;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+text-align: right;
+color:#262626;
+border: none;
+
+cursor: pointer; 
+}
+
+.hero{
+    display: flex;
+    
+}
+.hero-img{
+    width: 547px;
+    height: 460px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: none;
+    
+}
+
+.hero-section-content{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    gap: 10px;
+  
+  
+    background-image: url('../../assets/hero-img.png');
+    background-repeat: no-repeat;
+  
+
+   
+    background-color: #4172DC;
+
+
+}
+.hero-title{
+    font-family: "Lato", sans-serif;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    color:  #FFFFFF;
+
+   
+   
+
+    
+}
+
+.hero-sub-title{
+    color:  #FFFFFF;
+    font-family: "Lato", sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: center;
+     
+}
+.hero-btn{
+   
+padding: 10px 42px 10px 42px;
+border-radius: 4px;
+
+background-color: #4172DC;
+color: #FFFFFF;
+border: none;
+
+text-transform: uppercase;
+font-family: "Lato", sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+text-align: right;
+
+
+}
+@media(max-width:1024px){
+
+    .hero{
+        display: flex;
+        flex-direction: row;
+    }
+    .hero img{
+        width: 395px;
+    }
+    .summer-essentials-card{
+        display: none;
+        
+        
+        
+         
+     }
+}
+
+@media(max-width:600px){
+    .home-deal-card-section{
+        padding:10px 20px;
+
+    }
+    .hero{
+        display: none;
+    }
+  
+} 
+

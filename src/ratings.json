@@ -1,0 +1,21 @@
+{
+    "ratingFilters": [
+      {
+        "label": "2.0 and above",
+        "value": 2.0
+      },
+      {
+        "label": "3.0 and above",
+        "value": 3.0
+      },
+      {
+        "label": "3.5 and above",
+        "value": 3.5
+      },
+      {
+        "label": "4.0 and above",
+        "value": 4.0
+      }
+    ]
+  }
+  

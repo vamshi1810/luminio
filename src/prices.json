@@ -1,0 +1,144 @@
+{
+  "price_ranges": [
+    {
+      "label": "Under ₹ 99",
+      "range": {
+        "min": 0,
+        "max": 99
+      }
+    },
+    {
+      "label": "₹ 0 - ₹ 99",
+      "range": {
+        "min": 0,
+        "max": 99
+      }
+    },
+    {
+      "label": "₹ 100 - ₹ 149",
+      "range": {
+        "min": 100,
+        "max": 149
+      }
+    },
+    {
+      "label": "₹ 150 - ₹ 199",
+      "range": {
+        "min": 150,
+        "max": 199
+      }
+    },
+    {
+      "label": "₹ 200 - ₹ 249",
+      "range": {
+        "min": 200,
+        "max": 249
+      }
+    },
+    {
+      "label": "₹ 250 - ₹ 299",
+      "range": {
+        "min": 250,
+        "max": 299
+      }
+    },
+    {
+      "label": "Under ₹ 149",
+      "range": {
+        "min": 0,
+        "max": 149
+      }
+    },
+    {
+      "label": "Under ₹ 199",
+      "range": {
+        "min": 0,
+        "max": 199
+      }
+    },
+    {
+      "label": "Under ₹ 249",
+      "range": {
+        "min": 0,
+        "max": 249
+      }
+    },
+    {
+      "label": "Under ₹ 299",
+      "range": {
+        "min": 0,
+        "max": 299
+      }
+    },
+    {
+      "label": "Under ₹ 349",
+      "range": {
+        "min": 0,
+        "max": 349
+      }
+    },
+    {
+      "label": "Under ₹ 399",
+      "range": {
+        "min": 0,
+        "max": 399
+      }
+    },
+    {
+      "label": "Under ₹ 449",
+      "range": {
+        "min": 0,
+        "max": 449
+      }
+    },
+    {
+      "label": "Under ₹ 499",
+      "range": {
+        "min": 0,
+        "max": 499
+      }
+    },
+    {
+      "label": "₹ 300 - ₹ 399",
+      "range": {
+        "min": 300,
+        "max": 399
+      }
+    },
+    {
+      "label": "₹ 400 - ₹ 499",
+      "range": {
+        "min": 400,
+        "max": 499
+      }
+    },
+    {
+      "label": "₹ 500 - ₹ 599",
+      "range": {
+        "min": 500,
+        "max": 599
+      }
+    },
+    {
+      "label": "₹ 600 - ₹ 699",
+      "range": {
+        "min": 600,
+        "max": 699
+      }
+    },
+    {
+      "label": "₹ 700 - ₹ 799",
+      "range": {
+        "min": 700,
+        "max": 799
+      }
+    },
+    {
+      "label": "₹ 800 & Above",
+      "range": {
+        "min": 800,
+        "max": null
+      }
+    }
+  ]
+}

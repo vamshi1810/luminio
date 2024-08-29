@@ -1,0 +1,124 @@
+.treading-card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three equal columns by default */
+  gap: 10px; /* Space between grid items */
+}
+
+.treading-card {
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 12px 0px #0000001a;
+  display: flex;
+  flex-direction: column;
+  /* gap: 10px; */
+}
+
+.img-container {
+  position: relative;
+}
+
+.treading-img {
+  border-radius: 8px 8px 0 0;
+ 
+  height: 344px;
+  width: 100%;
+}
+
+.new-arrival {
+  padding: 6px;
+  border-radius: 4px;
+  background: #00a95d;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.new-arrival-text {
+  font-family: "Lato", sans-serif;
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+
+.star {
+  width: 12px;
+  height: 12px;
+}
+
+.size-2 {
+  width: 100%;
+  height: 100%;
+}
+
+.treading-card-footer {
+  border-radius: 0 0 8px 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #262626;
+  padding: 20px 25px;
+  margin-top: -8px;
+}
+
+.treading-shop-btn {
+  padding: 12px 24px;
+  border-radius: 8px;
+  border: 1px solid #d9d9d9;
+  background: none;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: right;
+  color: #ffffff;
+  
+}
+
+.treading-card-title {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 25px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.treading-card-sub-title {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #c4c4c4;
+}
+
+@media (max-width: 600px) {
+  .treading-card-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr); /* One column for smaller devices */
+    gap: 10px;
+  }
+}
+@media (max-width: 1024px) {
+  .treading-card-container {
+    display: grid;
+    grid-template-columns: auto; /* Two columns for tablets */
+    gap: 10px;
+  }
+  .treading-card {
+    width: 100%;
+    border-color: 1px solid red;
+  }
+  .container {
+    border-radius: 8px 8px 0 0;
+    clip-path: rect(585px, 850px, 150px, 50px);
+
+    gap: 0px;
+    opacity: 0px;
+  }
+}

@@ -1,0 +1,25 @@
+  
+  [
+      { "name": "Acrylic", "value": "Acrylic" },
+      { "name": "Canvas", "value": "Canvas" },
+      { "name": "Cotton", "value": "Cotton" },
+      { "name": "Denim", "value": "Denim" },
+      { "name": "Faux Fur", "value": "Faux Fur" },
+      { "name": "Faux Leather", "value": "Faux Leather" },
+      { "name": "Faux Suede", "value": "Faux Suede" },
+      { "name": "Fur", "value": "Fur" },
+      { "name": "Hemp", "value": "Hemp" },
+      { "name": "Leather", "value": "Leather" },
+      { "name": "Mesh", "value": "Mesh" },
+      { "name": "Natural Rubber", "value": "Natural Rubber" },
+      { "name": "Neoprene", "value": "Neoprene" },
+      { "name": "Nylon", "value": "Nylon" },
+      { "name": "Polyester", "value": "Polyester" },
+      {
+        "name": "Polyvinyl Chloride (PVC)",
+        "value": "Polyvinyl Chloride (PVC)"
+      },
+      { "name": "Shearling", "value": "Shearling" },
+      { "name": "Suede", "value": "Suede" },
+      { "name": "Wool", "value": "Wool" }
+    ]

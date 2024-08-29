@@ -1,0 +1,32 @@
+{
+"categories": [
+    {
+      "category": "women",
+      "img": "assets/sarees/71o6qvkzESL._SX522_.jpg"
+    },
+    {
+        "category": "men",
+        "img": "assets/tshirts/ts-21.jpg"
+    },
+    {
+        "category": "kids",
+      "img": "assets/kids/ty-4.jpg"
+    },
+    {
+        "category": "furniture",
+      "img": "assets/tshirts/bd-4.jpg"
+    },
+    {
+        "category": "Jewellery-Accessories",
+        "img": "assets/jewellery/er-3.jpg"
+    },
+    {
+        "category": "Bags-Footwear",
+      "img": "assets/kitchen-storage/clu-1.jpg"
+    },
+    {
+        "category": "Electronics",
+      "img": "assets/kitchen-storage/ma-2.jpg"
+    }
+]
+}

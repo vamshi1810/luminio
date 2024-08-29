@@ -1,0 +1,42 @@
+{
+    "categories": [
+      {
+        "name": "Women Bags",
+        "value": "Women-Bags",
+        "subcategories": [
+          { "name": "All Women Bags", "value": "All-Women-Bags" },
+          { "name": "Handbags", "value": "Handbags" },
+          { "name": "Clutches", "value": "Clutches" },
+          { "name": "Slingbags", "value": "Slingbags" }
+        ]
+      },
+      {
+        "name": "Men Bags",
+        "value": "Men-Bags",
+        "subcategories": [
+          { "name": "All Men Bags", "value": "All-Men-Bags" },
+          { "name": "Men Wallets", "value": "Men-Wallets" }
+        ]
+      },
+      {
+        "name": "Men Footwear",
+        "value": "Men-Footwear",
+        "subcategories": [
+          { "name": "Sports Shoes", "value": "Sports-Shoes" },
+          { "name": "Casual Shoes", "value": "Casual-Shoes" },
+          { "name": "Formal Shoes", "value": "Formal-Shoes" },
+          { "name": "Sandals", "value": "Sandals" }
+        ]
+      },
+      {
+        "name": "Women Footwear",
+        "value": "Women-Footwear",
+        "subcategories": [
+          { "name": "Flats", "value": "Flats" },
+          { "name": "Bellies", "value": "Bellies" },
+          { "name": "Juttis", "value": "Juttis" }
+        ]
+      }
+    ]
+  }
+  

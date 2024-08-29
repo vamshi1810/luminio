@@ -1,0 +1,655 @@
+{
+  "categories": [
+    {
+      "category": "women",
+      "img": "assets/sarees/71o6qvkzESL._SX522_.jpg",
+      "subcategories": [
+        {
+          "main_title": "Sarees",
+          "sub_title": "All Sarees",
+          "products": [
+            {
+              "id": 1,
+              "title": "All Sarees",
+              "image": "assets/sarees/71o6qvkzESL._SX522_.jpg",
+              "product_title": "Sarees",
+              "product_category": "women"
+            },
+            {
+              "id": 2,
+              "title": "Silk Sarees",
+              "image": "assets/sarees/61fy4Tu7D1L._SY679_.jpg",
+              "product_title": "Sarees",
+              "product_category": "women"
+            },
+            {
+              "id": 3,
+              "title": "Cotton Silk Sarees",
+              "image": "assets/sarees/71o6qvkzESL._SX522_.jpg",
+              "product_title": "Sarees",
+              "product_category": "women"
+            },
+            {
+              "id": 4,
+              "title": "Cotton Sarees",
+              "image": "assets/sarees/71o6qvkzESL._SX522_.jpg",
+              "product_title": "Sarees",
+              "product_category": "women"
+            },
+            {
+              "id": 5,
+              "title": "Georgette Sarees",
+              "image": "assets/sarees/71RUBfusi0L._SY679_.jpg",
+              "product_title": "Sarees",
+              "product_category": "women"
+            },
+            {
+              "id": 6,
+              "title": "Chiffon Sarees",
+              "image": "assets/sarees/61i8sIrd-oL._SX522_.jpg",
+              "product_title": "Sarees",
+              "product_category": "women"
+            },
+            {
+              "id": 7,
+              "title": "Satin Sarees",
+              "image": "assets/sarees/71RUBfusi0L._SY679_.jpg",
+              "product_title": "Sarees",
+              "product_category": "women"
+            },
+            {
+              "id": 8,
+              "title": "Embroidered Sarees",
+              "image": "assets/sarees/31X+xLnWdUL._SY606_.jpg",
+              "product_title": "Sarees",
+              "product_category": "women"
+            },
+            {
+              "id": 9,
+              "title": "Georgette Sarees",
+              "image": "assets/sarees/71RUBfusi0L._SY679_.jpg",
+              "product_title": "Sarees",
+              "product_category": "women"
+            }
+          ]
+        },
+        {
+          "main_title": "Kurtis",
+          "sub_title": "All Kurtis",
+          "products": [
+            {
+              "id": 1,
+              "title": "Anarkali Kurtis",
+              "image": "assets/sarees/81fhhKvr1qL._SY679_.jpg",
+              "product_title": "Kurtis",
+              "product_category": "women"
+            },
+            {
+              "id": 2,
+              "title": "Rayon Kurtis",
+              "image": "assets/sarees/61wRr3cnroL._SY679_.jpg",
+              "product_title": "Kurtis",
+              "product_category": "women"
+            },
+            {
+              "id": 3,
+              "title": "Cotton Kurtis",
+              "image": "assets/sarees/81DUGrnkj2L._SY679_.jpg",
+              "product_title": "Kurtis",
+              "product_category": "women"
+            },
+            {
+              "id": 4,
+              "title": "Embroidered Kurtis",
+              "image": "assets/sarees/91DYqON8D3L._SY679_.jpg",
+              "product_title": "Kurtis",
+              "product_category": "women"
+            },
+            {
+              "id": 5,
+              "title": "Straight Kurtis ",
+              "image": "assets/sarees/71l6n9BdHtL._SY606_.jpg",
+              "product_title": "Kurtis",
+              "product_category": "women"
+            },
+            {
+              "id": 6,
+              "title": "Long Kurtis ",
+              "image": "assets/sarees/81OxJYv+8LL._SY679_.jpg",
+              "product_title": "Kurtis",
+              "product_category": "women"
+            }
+          ]
+        },
+        {
+          "main_title": "Suits & Dress Material",
+          "sub_title": "All Suits & Dress Material",
+          "products": [
+            {
+              "id": 1,
+              "title": "Cotton Suits",
+              "image": "assets/sarees/81qcjyXboWL._SX522_.jpg",
+              "product_title": "Suits & Dress Material",
+              "product_category": "women"
+            },
+            {
+              "id": 2,
+              "title": "Embroidered Suits",
+              "image": "assets/suits/em-suit-1.jpg",
+              "product_title": "Suits & Dress Material",
+              "product_category": "women"
+            },
+            {
+              "id": 3,
+              "title": "Chanderi Suits",
+              "image": "assets/suits/ch-suit-1.jpg",
+              "product_title": "Suits & Dress Material",
+              "product_category": "women"
+            }
+          ]
+        },
+        {
+          "main_title": "Other Ethnic",
+          "sub_title": "All Other Ethnic",
+          "products": [
+            {
+              "id": 1,
+              "title": "Blouses",
+              "image": "assets/suits/b-1.jpg",
+              "product_title": "Other Ethnic",
+              "product_category": "women"
+            },
+            {
+              "id": 2,
+              "title": "Dupattas",
+              "image": "assets/suits/dp-1.jpg",
+              "product_title": "Other Ethnic",
+              "product_category": "women"
+            },
+            {
+              "id": 3,
+              "title": "Lehanga",
+              "image": "assets/suits/lh-1.jpg",
+              "product_title": "Other Ethnic",
+              "product_category": "women"
+            },
+            {
+              "id": 4,
+              "title": "Gown",
+              "image": "assets/suits/g-1.jpg",
+              "product_title": "Other Ethnic",
+              "product_category": "women"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "men",
+      "img": "assets/tshirts/ts-21.jpg",
+      "subcategories": [
+        {
+          "main_title": "Top Wear",
+          "products": [
+            {
+              "id": 1,
+              "title": "Tshirts",
+              "image": "assets/tshirts/ts-1.jpg",
+              "product_title": "Top Wear",
+              "product_category": "men"
+            },
+            {
+              "id": 1,
+              "title": "Shirts",
+              "image": "assets/tshirts/st-1.jpg",
+              "product_title": "Top Wear",
+              "product_category": "men"
+            }
+          ]
+        },
+        {
+          "main_title": "Bottom Wear",
+          "sub_title": "All Bottom Wear",
+          "products": [
+            {
+              "id": 1,
+              "title": "Track Pants",
+              "image": "assets/tshirts/tr-1.jpg",
+              "product_title": "Bottom Wear",
+              "product_category": "men"
+            },
+            {
+              "id": 2,
+              "title": "Jeans",
+              "image": "assets/tshirts/j-1.jpg",
+              "product_title": "Bottom Wear",
+              "product_category": "men"
+            },
+            {
+              "id": 3,
+              "title": "Trousers",
+              "image": "assets/tshirts/tro-1.jpg",
+              "product_title": "Bottom Wear",
+              "product_category": "men"
+            }
+          ]
+        },
+        {
+          "main_title": "Men Accessories",
+          "sub_title": "All Men Accessories",
+          "products": [
+            {
+              "id": 1,
+              "title": "Watches",
+              "image": "assets/tshirts/wt-1.jpg",
+              "product_title": "Men Accessories",
+              "product_category": "men"
+            },
+            {
+              "id": 2,
+              "title": "Belts",
+              "image": "assets/tshirts/bl-1.jpg",
+              "product_title": "Men Accessories",
+              "product_category": "men"
+            },
+            {
+              "id": 3,
+              "title": "Wallets",
+              "image": "assets/tshirts/wl-1.jpg",
+              "product_title": "Men Accessories",
+              "product_category": "men"
+            },
+            {
+              "id": 4,
+              "title": "Sunglasses",
+              "image": "assets/tshirts/sun-1.jpg",
+              "product_title": "Men Accessories",
+              "product_category": "men"
+            }
+          ]
+        },
+        {
+          "main_title": "Ethnic Wear",
+          "sub_title": "All Ethnic Wear",
+          "products": [
+            {
+              "id": 1,
+              "title": "Men Kurtas",
+              "image": "assets/tshirts/kr-1.jpg",
+              "product_title": "Ethnic Wear",
+              "product_category": "men"
+            },
+            {
+              "id": 2,
+              "title": "Ethnic Jackets",
+              "image": "assets/tshirts/ej-1.jpg",
+              "product_title": "Ethnic Wear",
+              "product_category": "men"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "kids",
+      "img": "assets/kids/ty-4.jpg",
+      "subcategories": [
+        {
+          "main_title": "Toys-Accessories",
+          "sub_title": "All Toys & Accessories",
+          "products": [
+            {
+              "id": 1,
+              "title": "Soft Toys",
+              "image": "assets/kids/ty-1.jpg",
+              "product_title": "Toys-Accessories",
+              "product_category": "kids"
+            },
+            {
+              "id": 2,
+              "title": "Stationery",
+              "image": "assets/kids/str-1.jpg",
+              "product_title": "Toys-Accessories",
+              "product_category": "kids"
+            },
+            {
+              "id": 3,
+              "title": "Footwear",
+              "image": "assets/kids/kf-1.jpg",
+              "product_title": "Toys-Accessories",
+              "product_category": "kids"
+            },
+            {
+              "id": 4,
+              "title": "Bags & Backpacks",
+              "image": "assets/kids/bap-1.jpg",
+              "product_title": "Toys-Accessories",
+              "product_category": "kids"
+            }
+          ]
+        },
+        {
+          "main_title": "Infant-0-2-Years",
+          "sub_title": "All Infant Clothing",
+          "products": [
+            {
+              "id": 1,
+              "title": "Rompers",
+              "image": "assets/kids/rp-1.jpg",
+              "product_title": "Infant-0-2-Years",
+              "product_category": "kids"
+            }
+          ]
+        },
+        {
+          "main_title": "Boys-Girls-2-Years",
+          "sub_title": "All Boys & Girls Clothing",
+          "products": [
+            {
+              "id": 1,
+              "title": "Dresses",
+              "image": "assets/kids/kid-1.jpg",
+              "product_title": "Boys-Girls-2-Years",
+              "product_category": "kids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "furniture",
+      "img": "assets/tshirts/bd-4.jpg",
+      "subcategories": [
+        {
+          "main_title": "Home-Furnishing",
+          "sub_title": "All Home Furnishing",
+          "products": [
+            {
+              "id": 1,
+              "title": "Bedsheets",
+              "image": "assets/tshirts/bd-1.jpg",
+              "product_title": "Home-Furnishing",
+              "product_category": "furniture"
+            },
+            {
+              "id": 2,
+              "title": "Doormats",
+              "image": "assets/kitchen-storage/dm-1.jpg",
+              "product_title": "Home-Furnishing",
+              "product_category": "furniture"
+            },
+            {
+              "id": 3,
+              "title": "Curtains",
+              "image": "assets/furniture/cs-1.jpg",
+              "product_title": "Home-Furnishing",
+              "product_category": "furniture"
+            },
+            {
+              "id": 4,
+              "title": "Cushion-Covers",
+              "image": "assets/furniture/cs-1.jpg",
+              "product_title": "Home-Furnishing",
+              "product_category": "furniture"
+            },
+            {
+              "id": 5,
+              "title": "Mattress-Protectors",
+              "image": "assets/clocks/mp-1.jpg",
+              "product_title": "Home-Furnishing",
+              "product_category": "furniture"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Jewellery-Accessories",
+      "img": "assets/jewellery/er-3.jpg",
+      "subcategories": [
+        {
+          "main_title": "Jewellery",
+          "sub_title": "All Jewellery",
+          "products": [
+            {
+              "id": 1,
+              "title": "Earrings",
+              "image": "assets/jewellery/er-1.jpg",
+              "product_title": "Jewellery",
+              "product_category": "Jewellery-Accessories"
+            },
+            {
+              "id": 2,
+              "title": "Mangalsutras",
+              "image": "assets/jewellery/ml-1.jpg",
+              "product_title": "Jewellery",
+              "product_category": "Jewellery-Accessories"
+            },
+            {
+              "id": 3,
+              "title": "Studs",
+              "image": "assets/jewellery/std-1.jpg",
+              "product_title": "Jewellery",
+              "product_category": "Jewellery-Accessories"
+            },
+            {
+              "id": 4,
+              "title": "Bangles",
+              "image": "assets/jewellery/ban-1.jpg",
+              "product_title": "Jewellery",
+              "product_category": "Jewellery-Accessories"
+            },
+            {
+              "id": 5,
+              "title": "Necklaces",
+              "image": "assets/jewellery/jl-1.jpg",
+              "product_title": "Jewellery",
+              "product_category": "Jewellery-Accessories"
+            },
+            {
+              "id": 6,
+              "title": "Rings",
+              "image": "assets/jewellery/rin-1.jpg",
+              "product_title": "Jewellery",
+              "product_category": "Jewellery-Accessories"
+            },
+            {
+              "id": 7,
+              "title": "Anklets",
+              "image": "assets/jewellery/ank-1.jpg",
+              "product_title": "Jewellery",
+              "product_category": "Jewellery-Accessories"
+            }
+          ]
+        },
+        {
+          "main_title": "Women-Accessory",
+          "sub_title": "All Women Accessories",
+          "products": [
+            {
+              "id": 1,
+              "title": "Bags",
+              "image": "assets/kitchen-storage/bag-1.jpg",
+              "product_title": "Women-Accessory",
+              "product_category": "Jewellery-Accessories"
+            },
+            {
+              "id": 2,
+              "title": "Watches",
+              "image": "assets/kitchen-storage/ww-1.jpg",
+              "product_title": "Women-Accessory",
+              "product_category": "Jewellery-Accessories"
+            },
+            {
+              "id": 3,
+              "title": "Sunglasses",
+              "image": "assets/kitchen-storage/ws-1.jpg",
+              "product_title": "Women-Accessory",
+              "product_category": "Jewellery-Accessories"
+            },
+            {
+              "id": 4,
+              "title": "Socks",
+              "image": "assets/kitchen-storage/sc-1.jpg",
+              "product_title": "Women-Accessory",
+              "product_category": "Jewellery-Accessories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Bags-Footwear",
+      "img": "assets/kitchen-storage/clu-1.jpg",
+      "subcategories": [
+        {
+          "main_title": "Women Bags",
+          "sub_title": "All Women Bags",
+          "products": [
+            {
+              "id": 1,
+              "title": "Handbags",
+              "image": "assets/kitchen-storage/hd-1.jpg",
+              "product_title": "Women-Bags",
+              "product_category": "Bags-Footwear"
+            },
+            {
+              "id": 2,
+              "title": "Clutches",
+              "image": "assets/kitchen-storage/clu-1.jpg",
+              "product_title": "Women-Bags",
+              "product_category": "Bags-Footwear"
+            },
+            {
+              "id": 3,
+              "title": "Slingbags",
+              "image": "assets/kitchen-storage/sib-1.jpg",
+              "product_title": "Women-Bags",
+              "product_category": "Bags-Footwear"
+            }
+          ]
+        },
+        {
+          "main_title": "Men-Bags",
+          "sub_title": "All Men Bags",
+          "products": [
+            {
+              "id": 1,
+              "title": "Men-Wallets",
+              "image": "assets/tshirts/wl-1.jpg",
+              "product_title": "Men-Bags",
+              "product_category": "Bags-Footwear"
+            }
+          ]
+        },
+        {
+          "main_title": "Men-Footwear",
+          "sub_title": "All Men Footwear",
+          "products": [
+            {
+              "id": 1,
+              "title": "Sports-Shoes",
+              "image": "assets/shoes/sp-1.jpg",
+              "product_title": "Men-Footwear",
+              "product_category": "Bags-Footwear"
+            },
+            {
+              "id": 2,
+              "title": "Casual-Shoes",
+              "image": "assets/shoes/cas-1.jpg",
+              "product_title": "Men-Footwear",
+              "product_category": "Bags-Footwear"
+            },
+            {
+              "id": 3,
+              "title": "Formal-Shoes",
+              "image": "assets/shoes/fr-1.jpg",
+              "product_title": "Men-Footwear",
+              "product_category": "Bags-Footwear"
+            },
+            {
+              "id": 4,
+              "title": "Sandals",
+              "image": "assets/shoes/sn-2.jpg",
+              "product_title": "Men-Footwear",
+              "product_category": "Bags-Footwear"
+            }
+          ]
+        },
+        {
+          "main_title": "Women-Footwear",
+          "sub_title": "All Women Footwear",
+          "products": [
+            {
+              "id": 1,
+              "title": "Flats",
+              "image": "assets/shoes/fl-1.jpg",
+              "product_title": "Women-Footwear",
+              "product_category": "Bags-Footwear"
+            },
+            {
+              "id": 2,
+              "title": "Bellies",
+              "image": "assets/shoes/bl-1.jpg",
+              "product_title": "Women-Footwear",
+              "product_category": "Bags-Footwear"
+            },
+            {
+              "id": 3,
+              "title": "Juttis",
+              "image": "assets/shoes/jt-2.jpg",
+              "product_title": "Women-Footwear",
+              "product_category": "Bags-Footwear"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Electronics",
+      "img": "assets/kitchen-storage/ma-2.jpg",
+      "subcategories": [
+        {
+          "main_title": "Mobile-Accessories",
+          "sub_title": "All Mobile Accessories",
+          "products": [
+            {
+              "id": 1,
+              "title": "Mobile-Holders",
+              "image": "assets/kitchen-storage/ma-1.jpg",
+              "product_title": "Mobile-Accessories",
+              "product_category": "Electronics"
+            },
+            {
+              "id": 2,
+              "title": "Mobile-cases-covers",
+              "image": "assets/kitchen-storage/p-1.jpg",
+              "product_title": "Mobile-Accessories",
+              "product_category": "Electronics"
+            }
+          ]
+        },
+        {
+          "main_title": "Appliances",
+          "sub_title": "All Appliances",
+          "products": [
+            {
+              "id": 1,
+              "title": "Grooming",
+              "image": "assets/kitchen-storage/gr-1.jpg",
+              "product_title": "Appliances",
+              "product_category": "Electronics"
+            },
+            {
+              "id": 2,
+              "title": "Home-Appliances",
+              "image": "assets/kitchen-storage/ha-1.jpg",
+              "product_title": "Appliances",
+              "product_category": "Electronics"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

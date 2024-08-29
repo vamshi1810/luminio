@@ -1,0 +1,34 @@
+[
+  {
+    "title": "XS",
+    "value": "xs"
+  },
+  {
+    "title": "2XS",
+    "value": "2xs"
+  },
+  {
+    "title": "S",
+    "value": "s"
+  },
+  {
+    "title": "M",
+    "value": "m"
+  },
+  {
+    "title": "L",
+    "value": "l"
+  },
+  {
+    "title": "XL",
+    "value": "xl"
+  },
+  {
+    "title": "2XL",
+    "value": "2xl"
+  },
+  {
+    "title": "3XL",
+    "value": "3xl"
+  }
+]

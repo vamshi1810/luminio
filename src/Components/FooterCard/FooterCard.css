@@ -1,0 +1,207 @@
+.footer {
+  background: #ffffff;
+}
+
+.store-footer-card{
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.store-card {
+    position: relative;
+    top: 100px;
+  padding: 16px;
+  gap: 24px;
+  border-radius: 8px;
+  opacity: 0px;
+  background: #7296ab;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+ 
+}
+
+.store-card-title {
+  font-family: "Lato", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+  padding: 8px;
+}
+.store-card-sub-title {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.input-container {
+  position: relative;
+  display: inline-block;
+}
+
+.input-container input {
+  width: 100%;
+  padding: 10px 60px; /* Adjust the padding to make space for the icon */
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+}
+
+.input-container .icon {
+  position: absolute;
+  right: 10px; /* Adjust the position as needed */
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px; /* Adjust the width and height as needed */
+  height: 20px;
+  pointer-events: none; /* Makes sure the icon doesn't interfere with input interactions */
+  color: #666; /* Adjust the color as needed */
+}
+
+.footer-card{
+
+padding: 132px 248px 60px 303px;
+gap: 127px;
+opacity: 0px;
+background-color: #D1E2EB;
+display: grid;
+grid-template-columns: repeat(4,1fr);
+
+}
+
+.footer-card-list{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.footer-card-main-list-item{
+
+
+font-family: Lato;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+text-align: left;
+color: #262626;
+;
+}
+.footer-card-list-item{
+font-family: "Lato", sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+
+color: #555555
+
+
+}
+.payment-card{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+
+.payment-type-image{
+    width: 62px;
+    height: 19px;
+   
+    gap: 0px;
+    opacity: 0.8px;
+    
+    mix-blend-mode: luminosity
+}
+.en-language{
+    font-family: "Lato", sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: right;
+color:  #262626;
+
+}
+
+.footer-card-info{
+    display: flex;
+    justify-content: space-between;
+   
+    align-items: center;
+    padding: 20px;
+}
+.social-icon{
+    width: 25px;
+    height: 25px;
+}
+.address-info{
+font-family: "Lato", sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+color:#262626;
+}
+.copyright{
+    font-family: "Lato", sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+color: #9D9D9D;
+
+
+}
+
+@media (max-width: 1024px) {
+    .footer-card{
+
+        padding: 132px 248px 60px 303px;
+  
+        
+        gap: 50px;
+        opacity: 0px;
+        background-color: #D1E2EB;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        
+        }
+  }
+  
+  @media (max-width: 600px) {
+    .footer-card{
+
+        
+     padding: 20px;
+        opacity: 0px;
+        background-color: #D1E2EB;
+        display: grid; 
+    grid-template-columns: repeat(2,1fr);
+        
+        
+        }
+        .store-card{
+            display: none;
+        }
+        .footer-card-info{
+            display: none;
+        }
+        .store-footer-card{
+            display: none;
+        }
+        hr{
+            display: none;
+        }
+
+  
+  }
+
+
+

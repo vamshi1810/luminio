@@ -1,0 +1,63 @@
+.basket {
+  background-color: #ffff;
+  box-shadow: 0px 0px 12px 0px #0000001a;
+  padding: 20px 25px;
+  height: 300px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 85px;
+}
+
+.basket-card-item {
+  display: flex;
+  gap: 15px;
+  margin: 15px 0px;
+}
+.basket-card-img {
+  width: 35px;
+  height: 35px;
+}
+.basket-card-title {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: left;
+  color: #262626;
+}
+.basket-card-price {
+  color: #555555;
+}
+.basket-card-btn-group {
+  margin: 20px 0px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.basket-view-btn {
+  background-color: #4172dc;
+  padding: 10px 25px;
+  border: none;
+  color: #ffffff;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  border-radius: 4px;
+}
+.basket-checkout-btn {
+  background-color: none;
+  border: 1px solid gray;
+  padding: 10px 25px;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  border-radius: 4px;
+}
+.total-price {
+  display: flex;
+  justify-content: space-between;
+}

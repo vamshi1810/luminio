@@ -1,0 +1,59 @@
+{
+    "categories": [
+     
+      {
+        "name": "Sarees",
+        "value": "sarees",
+        "subcategories": [
+          { "name": "All Sarees", "value": "All-Sarees" },
+          { "name": "Silk Sarees", "value": "Silk Sarees" },
+          { "name": "Cotton Silk Sarees", "value": "Cotton-Silk-Sarees" },
+          { "name": "Cotton Sarees", "value": "Cotton Sarees" },
+          { "name": "Georgette Sarees", "value": "Georgette Sarees" },
+          { "name": "Chiffon Sarees", "value": "Chiffon Sarees" },
+          { "name": "Satin Sarees", "value": "Satin Sarees" },
+          { "name": "Embroidered Sarees", "value": "Embroidered Sarees" }
+        ]
+      },
+      {
+        "name": "Kurtis",
+        "value": "Kurtis",
+        "subcategories": [
+          { "name": "All Kurtis", "value": "All Kurtis" },
+          { "name": "Anarkali Kurtis", "value": "Anarkali Kurtis" },
+          { "name": "Rayon Kurtis", "value": "Rayon Kurtis" },
+          { "name": "Cotton Kurtis", "value": "Cotton Kurtis" },
+          { "name": "Embroidered Kurtis", "value": "Embroidered Kurtis" }
+        ]
+      },
+      {
+        "name": "Kurta Sets",
+        "value": "Kurta Sets",
+        "subcategories": [
+          { "name": "All Kurta Sets", "value": "All Kurta Sets" }
+        ]
+      },
+      {
+        "name": "Suits & Dress Material",
+        "value": "Suits Dress Material",
+        "subcategories": [
+          { "name": "All Suits & Dress Material", "value": "All Suits Dress Material" },
+          { "name": "Cotton Suits", "value": "Cotton Suits" },
+          { "name": "Embroidered Suits", "value": "Embroidered Suits" },
+          { "name": "Chanderi Suits", "value": "Chanderi Suits" }
+        ]
+      },
+      {
+        "name": "Other Ethnic",
+        "value": "Other Ethnic",
+        "subcategories": [
+          { "name": "Blouses", "value": "Blouses" },
+          { "name": "Dupattas", "value": "Dupattas" },
+          { "name": "Lehanga", "value": "Lehanga" },
+          { "name": "Gown", "value": "Gown" },
+          { "name": "Ethnic Bottomwear", "value": "Ethnic-Bottomwear" }
+        ]
+      }
+    ]
+  }
+  
