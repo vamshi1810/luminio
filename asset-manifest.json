@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/luminio/static/css/main.e45c1beb.css",
+    "main.css": "/luminio/static/css/main.aaf5fb8c.css",
     "main.js": "/luminio/static/js/main.e94411a6.js",
     "static/js/239.7389db12.chunk.js": "/luminio/static/js/239.7389db12.chunk.js",
     "static/js/213.44a2b22b.chunk.js": "/luminio/static/js/213.44a2b22b.chunk.js",
@@ -2510,7 +2510,7 @@
     "static/media/p-36.webp": "/luminio/static/media/p-36.5952c1cead11e38ebf25.webp",
     "static/media/logo.svg": "/luminio/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/luminio/index.html",
-    "main.e45c1beb.css.map": "/luminio/static/css/main.e45c1beb.css.map",
+    "main.aaf5fb8c.css.map": "/luminio/static/css/main.aaf5fb8c.css.map",
     "main.e94411a6.js.map": "/luminio/static/js/main.e94411a6.js.map",
     "239.7389db12.chunk.js.map": "/luminio/static/js/239.7389db12.chunk.js.map",
     "213.44a2b22b.chunk.js.map": "/luminio/static/js/213.44a2b22b.chunk.js.map",
@@ -2518,7 +2518,7 @@
     "453.ceed22a2.chunk.js.map": "/luminio/static/js/453.ceed22a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e45c1beb.css",
+    "static/css/main.aaf5fb8c.css",
     "static/js/main.e94411a6.js"
   ]
 }
